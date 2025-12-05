@@ -7,6 +7,7 @@ This is for tracking the 3D reconstruction experiments from the past month.
 Our goal is to reconstruct a mesh from photos and create a 3D scene with physical properties.
 
 ![SuGaR_1127_3DGS_Mesh_Physics](assets/SuGaR_1127_3DGS_Mesh_Physics.gif)
+
 *Generated using SuGaR and applied in IsaacSim.*
 
 ## Different Technical Approaches
